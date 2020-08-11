@@ -1,0 +1,90 @@
+{
+  "configVersion": 1,
+  "timestamp": 1597121854750,
+  "index": "https://lnwdark.github.io/cal-late-time/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://lnwdark.github.io/cal-late-time/favicon.ico",
+        "https://lnwdark.github.io/cal-late-time/index.html",
+        "https://lnwdark.github.io/cal-late-time/main.d42bc582340aed9f7a94.js",
+        "https://lnwdark.github.io/cal-late-time/manifest.webmanifest",
+        "https://lnwdark.github.io/cal-late-time/polyfills.614fa29b82948637bb4d.js",
+        "https://lnwdark.github.io/cal-late-time/runtime.d6c52737d4587c65265f.js",
+        "https://lnwdark.github.io/cal-late-time/styles.a88ac727fc09db4fd06d.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://lnwdark.github.io/cal-late-time/assets/icons/icon-128x128.png",
+        "https://lnwdark.github.io/cal-late-time/assets/icons/icon-144x144.png",
+        "https://lnwdark.github.io/cal-late-time/assets/icons/icon-152x152.png",
+        "https://lnwdark.github.io/cal-late-time/assets/icons/icon-192x192.png",
+        "https://lnwdark.github.io/cal-late-time/assets/icons/icon-384x384.png",
+        "https://lnwdark.github.io/cal-late-time/assets/icons/icon-512x512.png",
+        "https://lnwdark.github.io/cal-late-time/assets/icons/icon-72x72.png",
+        "https://lnwdark.github.io/cal-late-time/assets/icons/icon-96x96.png",
+        "https://lnwdark.github.io/cal-late-time/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+        "https://lnwdark.github.io/cal-late-time/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+        "https://lnwdark.github.io/cal-late-time/fontawesome-webfont.8b43027f47b20503057d.eot",
+        "https://lnwdark.github.io/cal-late-time/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+        "https://lnwdark.github.io/cal-late-time/fontawesome-webfont.f691f37e57f04c152e23.woff"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://lnwdark.github.io/cal-late-time/assets/icons/icon-128x128.png": "431cfa5d03a93352ee4c923dd8b2b991767eb2dd",
+    "https://lnwdark.github.io/cal-late-time/assets/icons/icon-144x144.png": "7f69522bae65b25701c8475517911ab662ab708c",
+    "https://lnwdark.github.io/cal-late-time/assets/icons/icon-152x152.png": "855fca537f9607773698eb0b1dd4e0b863d981d2",
+    "https://lnwdark.github.io/cal-late-time/assets/icons/icon-192x192.png": "efdfeb148b000b967ce154ac5aeb1857090e48c3",
+    "https://lnwdark.github.io/cal-late-time/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://lnwdark.github.io/cal-late-time/assets/icons/icon-512x512.png": "e05713081a6165dd4d1bb041be5a9a68da2ceca8",
+    "https://lnwdark.github.io/cal-late-time/assets/icons/icon-72x72.png": "1f4df1a5d873400c11b46dbd28f702853e94cd02",
+    "https://lnwdark.github.io/cal-late-time/assets/icons/icon-96x96.png": "b0820683273f1c5acf71c1f063a857c518503732",
+    "https://lnwdark.github.io/cal-late-time/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://lnwdark.github.io/cal-late-time/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf": "13b1eab65a983c7a73bc7997c479d66943f7c6cb",
+    "https://lnwdark.github.io/cal-late-time/fontawesome-webfont.20fd1704ea223900efa9.woff2": "d6f48cba7d076fb6f2fd6ba993a75b9dc1ecbf0c",
+    "https://lnwdark.github.io/cal-late-time/fontawesome-webfont.8b43027f47b20503057d.eot": "d980c2ce873dc43af460d4d572d441304499f400",
+    "https://lnwdark.github.io/cal-late-time/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg": "98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed",
+    "https://lnwdark.github.io/cal-late-time/fontawesome-webfont.f691f37e57f04c152e23.woff": "28b782240b3e76db824e12c02754a9731a167527",
+    "https://lnwdark.github.io/cal-late-time/index.html": "98c1b09d098df625a0742c8e2672f28ff8eaa80d",
+    "https://lnwdark.github.io/cal-late-time/main.d42bc582340aed9f7a94.js": "6d0b00c3c0fdee214b2ba7ee08619dcc4b310042",
+    "https://lnwdark.github.io/cal-late-time/manifest.webmanifest": "8d0d347f39fadf6b73a12738e3e8e1268d31a1cb",
+    "https://lnwdark.github.io/cal-late-time/polyfills.614fa29b82948637bb4d.js": "0ceabf5256dd5a9880bc0dec77e1b7cf4cb190d8",
+    "https://lnwdark.github.io/cal-late-time/runtime.d6c52737d4587c65265f.js": "d5db3397a9ac50a48747b8727b71e0a1751d57fe",
+    "https://lnwdark.github.io/cal-late-time/styles.a88ac727fc09db4fd06d.css": "3614cf3b3dda31ec4ccce9303f5e3df0e7bdfc39"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
