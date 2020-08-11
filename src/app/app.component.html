@@ -1,18 +1,60 @@
   <div class="blue-box">
     <div class="container">
-
-    </div>
-  </div>
-  <div class="pr-6 pl-6 " style="margin-top: -40px;">
-    <div class="card">
-      <div class="card-content">
-        <div class="media">
-          <div class="media-content">
-            <p class="title is-4">คำนวน</p>
-            <p class="subtitle is-6">@johnsmith</p>
-          </div>
-        </div>
-
+      <p class="pl-2 pt-2 has-text-white"> คำนวนเงินมาสาย F2U</p>
+      <div class="is-centered">
+        <p class="has-text-centered  pt-3">
+          <span class="is-size-4 has-text-white">เงินที่ต้องจ่าย</span>
+        </p>
+        <p class="has-text-centered   has-text-white pt-2" style="font-size: 5em;">
+          {{total | number : '1.2-2'}}
+        </p>
       </div>
     </div>
   </div>
+  <div class="pr-3 pl-3 " style="margin-top: -70px;">
+    <div class="card">
+      <div class="card-content">
+
+        <div class="field">
+          <label class="label">จำนวนเงินเดือน</label>
+          <div class="control has-icons-left has-icons-right">
+            <input [(ngModel)]="salary" maxlength="7" (input)="cal()" class="input is-rounded is-medium is-success"
+              (keypress)="numberOnly($event)" type="text" placeholder="กรอกจำนวนเงินเดือน...">
+            <span class="icon is-small is-left">
+              <i class="fa fa-money" aria-hidden="true"></i>
+            </span>
+
+          </div>
+        </div>
+        <div class="field">
+          <label class="label">จำนวนมาสาย</label>
+          <div class="control has-icons-left has-icons-right">
+            <input [(ngModel)]="amount" maxlength="3" (input)="cal()" class="input is-rounded is-medium "
+              (keypress)="numberOnly($event)" type="text" placeholder="กรอกจำนวนมาสาย...">
+            <span class="icon is-small is-left">
+              <i class="fa fa-clock-o" aria-hidden="true"></i>
+            </span>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <section class="hero">
+    <div class="hero-body">
+      <div class="container">
+        <h1 class="title">
+          สูตรคำนวน
+        </h1>
+        <h2 class="subtitle">
+          นำเงินเดือนมา ÷ 30 วัน
+          จากนั้น ÷ 8 ชั่วโมง
+          แล้วนำมา × จำนวนวันมาสาย
+        </h2>
+      </div>
+    </div>
+  </section>
+
+  <p class="has-text-centered has-text-danger">
+    การคำนวนไม่มีการบันทึก log ใดๆ ทั้งสิ้น...
+  </p>
