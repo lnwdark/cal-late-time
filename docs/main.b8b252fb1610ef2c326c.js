@@ -59529,7 +59529,7 @@ let AppComponent = /*@__PURE__*/ (() => {
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "p", 2);
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](3, " \u0E04\u0E33\u0E19\u0E27\u0E19\u0E40\u0E07\u0E34\u0E19\u0E21\u0E32\u0E2A\u0E32\u0E22 F2U");
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](3, " \u0E04\u0E33\u0E19\u0E27\u0E13\u0E40\u0E07\u0E34\u0E19\u0E21\u0E32\u0E2A\u0E32\u0E22 F2U");
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "div", 3);
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "p", 4);
@@ -59580,7 +59580,7 @@ let AppComponent = /*@__PURE__*/ (() => {
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](29, "div", 19);
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](30, "div", 1);
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](31, "h1", 20);
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](32, " \u0E2A\u0E39\u0E15\u0E23\u0E04\u0E33\u0E19\u0E27\u0E19 ");
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](32, " \u0E2A\u0E39\u0E15\u0E23\u0E04\u0E33\u0E19\u0E27\u0E13 ");
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](33, "h2", 21);
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](34, " \u0E19\u0E33\u0E40\u0E07\u0E34\u0E19\u0E40\u0E14\u0E37\u0E2D\u0E19\u0E21\u0E32 \u00F7 30 \u0E27\u0E31\u0E19 \u0E08\u0E32\u0E01\u0E19\u0E31\u0E49\u0E19 \u00F7 8 \u0E0A\u0E31\u0E48\u0E27\u0E42\u0E21\u0E07 \u0E41\u0E25\u0E49\u0E27\u0E19\u0E33\u0E21\u0E32 \u00D7 \u0E08\u0E33\u0E19\u0E27\u0E19\u0E27\u0E31\u0E19\u0E21\u0E32\u0E2A\u0E32\u0E22 ");
@@ -59589,7 +59589,7 @@ let AppComponent = /*@__PURE__*/ (() => {
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](35, "p", 22);
-                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](36, " \u0E01\u0E32\u0E23\u0E04\u0E33\u0E19\u0E27\u0E19\u0E44\u0E21\u0E48\u0E21\u0E35\u0E01\u0E32\u0E23\u0E1A\u0E31\u0E19\u0E17\u0E36\u0E01 log \u0E43\u0E14\u0E46 \u0E17\u0E31\u0E49\u0E07\u0E2A\u0E34\u0E49\u0E19... ");
+                _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](36, " \u0E01\u0E32\u0E23\u0E04\u0E33\u0E19\u0E27\u0E13\u0E44\u0E21\u0E48\u0E21\u0E35\u0E01\u0E32\u0E23\u0E1A\u0E31\u0E19\u0E17\u0E36\u0E01 log \u0E43\u0E14\u0E46 \u0E17\u0E31\u0E49\u0E07\u0E2A\u0E34\u0E49\u0E19... ");
                 _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
             }
             if (rf & 2) {
